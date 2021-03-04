@@ -1,0 +1,11 @@
+body {
+	background: forestgreen;
+}
+p {
+	color: darkred;
+	font-size: 17px;
+	text-align: left;
+}
+h1 {
+	font-weight: bold;
+}

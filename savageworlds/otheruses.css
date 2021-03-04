@@ -1,0 +1,17 @@
+body {
+	background: forestgreen;
+}
+
+p {
+	color: black;
+}
+
+h1 {
+	font-weight: bold;
+	color: red;
+	font-family: cursive;
+}
+
+h2 {
+	color: aqua;
+}
